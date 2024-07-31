@@ -42,7 +42,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\":\"Nancy Test\",\r\n    \"gender\": \"fale\",\r\n    \"email\": \"nancy.dummy@15ce.com\",\r\n    \"status\": \"active\"\r\n}",
+							"raw": "{\r\n    \"name\":\"abc fdsfTest\",\r\n    \"gender\": \"fale\",\r\n    \"email\": \"nancfdfy.dummy@15ce.com\",\r\n    \"status\": \"active\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
